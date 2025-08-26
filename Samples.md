@@ -1,4 +1,3 @@
-
 🧭 Mermaid Chart Types Overview
 1. Flowchart (processes, logic, workflows)
 flowchart TD
