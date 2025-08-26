@@ -1,4 +1,5 @@
 https://www.youtube.com/watch?v=qGsQolMh9zE
+https://mermaid.live/
 
 # Mermaid examples
 To render these in VS Code, you need to install an extension for Mermaid. I use [this one](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid).
